@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ulyana Brataus
+- 👋 Hi, I’m Ulyana
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning CSS, JS, React.
 <!--- - 💞️ I’m looking to collaborate on ...
