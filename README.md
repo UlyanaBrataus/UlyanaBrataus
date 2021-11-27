@@ -17,7 +17,9 @@ Junior JS Developer
 
 Belarus, Minsk
 +375 (29) 618-35-37
+
 ubrataus@gmail.com
+
 https://www.linkedin.com/in/ulyanabrataus
 
 
@@ -28,16 +30,25 @@ I’m interested in both front-end and back-end development.
 English: Upper-Intermediate.
 
 I have non-commercial-experience with HTML, CSS, JavaScript, Node.js:
+
 — created responsive Landing Page from scratch and deployed it on Netlify;
+
 — built Breakout game with JavaScript;
+
 — created API for Node.js project.
+
 I enjoy solving Codewars kata in my spare time.
 
+
 🌱  Online courses passed:
+
 —  JavaScript 2.0 (by  Luschenko Alexander)
+
 —  Build Responsive Real-World Websites with HTML and CSS (Udemy)
 
+
 And several online courses are in process (Node.js, advanced CSS and SASS, JS, etc.)
+
 
 
 Unrelated to IT work experience and education:
