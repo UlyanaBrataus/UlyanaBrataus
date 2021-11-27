@@ -26,8 +26,10 @@ https://www.linkedin.com/in/ulyanabrataus
 
 I’m interested in both front-end and back-end development.
 
+
  ✨ Skills: HTML, CSS, JavaScript, Node.js, API, Git, GitHub, Figma.
 English: Upper-Intermediate.
+
 
 I have non-commercial-experience with HTML, CSS, JavaScript, Node.js:
 
@@ -37,7 +39,9 @@ I have non-commercial-experience with HTML, CSS, JavaScript, Node.js:
 
 — created API for Node.js project.
 
+
 I enjoy solving Codewars kata in my spare time.
+
 
 
 🌱  Online courses passed:
@@ -48,6 +52,7 @@ I enjoy solving Codewars kata in my spare time.
 
 
 And several online courses are in process (Node.js, advanced CSS and SASS, JS, etc.)
+
 
 
 
