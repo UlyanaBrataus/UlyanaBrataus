@@ -31,7 +31,7 @@ English: Upper-Intermediate.
 
 I have non-commercial-experience with HTML, CSS, JavaScript, Node.js:
 
-— created responsive Landing Page from scratch and deployed it on Netlify;
+— created responsive Landing Page from scratch and deployed it on Netlify (https://omnifood-ulyana.netlify.app);
 
 — built Breakout game with JavaScript;
 
