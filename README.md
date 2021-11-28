@@ -16,7 +16,6 @@ Ulyana Brataus
 Junior JS Developer
 
 Belarus, Minsk
-+375 (29) 618-35-37
 
 ubrataus@gmail.com
 
@@ -28,6 +27,7 @@ I’m interested in both front-end and back-end development.
 
 
  ✨ Skills: HTML, CSS, JavaScript, Node.js, API, Git, GitHub, Figma.
+ 
 English: Upper-Intermediate.
 
 
