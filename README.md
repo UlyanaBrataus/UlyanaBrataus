@@ -51,7 +51,7 @@ I enjoy solving Codewars kata in my spare time.
 —  Build Responsive Real-World Websites with HTML and CSS (Udemy)
 
 
-And several online courses are in process (Node.js, advanced CSS and SASS, JS, etc.)
+And several online courses are in process (Node.js, React)
 
 
 
