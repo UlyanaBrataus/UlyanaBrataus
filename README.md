@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ulyana
-- 👀 I’m interested in both front-end and back-end(Node.js) development
-- 🌱 I’m currently learning CSS, JS, Node.js, React (coming soon)
+- 👀 I’m interested in Frontend and Blockchain development
+- 🌱 I’m currently learning React, Next.js, Solidity, Smart Contracts
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
@@ -8,60 +8,51 @@
 UlyanaBrataus/UlyanaBrataus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-✨  My CV here:
+
+Email: ubrataus@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/ulyanabrataus
 
 
-Ulyana Brataus
-
-Junior JS Developer
-
-Belarus, Minsk
-
-ubrataus@gmail.com
-
-https://www.linkedin.com/in/ulyanabrataus
-
-
-
-I’m interested in both front-end and back-end development.
-
-
- ✨ Skills: HTML, CSS, JavaScript, Node.js, API, Git, GitHub, Figma.
+ ✨ Skills: HTML/CSS/SCSS, Tailwind CSS, JavaScript, Typescript, React, Redux, Next.js, Node.js, Git, Figma. 
  
 English: Upper-Intermediate.
 
 
-I have non-commercial-experience with HTML, CSS, JavaScript, Node.js:
+Projects:
 
-— created responsive Landing Page from scratch and deployed it on Netlify (https://omnifood-ulyana.netlify.app);
+Responsive Admin Dashboard (React, CSS Grid, Framer Motion, Material UI) — https://brataus-dashboard.netlify.app/
 
-— built Breakout game with JavaScript;
+Cryptocurrency app (React, React Router, API, Axious) — https://cryptocoin-brataus.netlify.app/
 
-— created API for Node.js project.
+Omnifood  Delivery Website (CSS Grid and Flex, JavaScript) — https://omnifood-ulyana.netlify.app/
 
 
 I enjoy solving Codewars kata in my spare time.
 
 
 
-🌱  Online courses passed:
+🌱  Online courses:
+
+
+—  RS-School/Frontend Developer
 
 —  JavaScript 2.0 (by  Luschenko Alexander)
 
 —  Build Responsive Real-World Websites with HTML and CSS (Udemy)
 
 
-And several online courses are in process (Node.js, React)
+Portfolio with CV: 
+
+https://portfolio-brataus.netlify.app
 
 
+Education and work experience:
 
+Minsk State Linguistic University — 
+Bachelor's degree, Foreign language teaching (English) — part-time (September 2020 - present)
 
-Unrelated to IT work experience and education:
-
-OZ.by / Customer service manager
-2017 г. – present (part-time).
-
-I’m a second-year MSLU student  (part-time).
+OZ.by — Customer service manager — part-time (2017 - present) 
 
 
 
