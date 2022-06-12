@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ulyana
-- 👀 I’m interested in Frontend and Blockchain development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning React, Next.js, Solidity, Smart Contracts
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
@@ -8,6 +8,11 @@
 UlyanaBrataus/UlyanaBrataus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Portfolio with CV: 
+
+https://portfolio-brataus.netlify.app
+
 
 Email: ubrataus@gmail.com
 
@@ -32,6 +37,7 @@ I enjoy solving Codewars kata in my spare time.
 
 
 
+
 🌱  Online courses:
 
 
@@ -41,10 +47,6 @@ I enjoy solving Codewars kata in my spare time.
 
 —  Build Responsive Real-World Websites with HTML and CSS (Udemy)
 
-
-Portfolio with CV: 
-
-https://portfolio-brataus.netlify.app
 
 
 Education and work experience:
